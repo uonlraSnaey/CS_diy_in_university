@@ -22,4 +22,4 @@
 
 2、 MI优质课程 MIT 6.S081 操作系统工程 [operating system engineering](www.bilibili.com/video/BV1Dy4y1m7ZE)
 
-3、《自己动手写操作系统》 [笔记和PDF]()
+3、《自己动手写操作系统》 [笔记](https://github.com/uonlraSnaey/CS_diy_in_university/blob/main/CS/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%98%AF%E6%80%8E%E6%A0%B7%E8%B7%91%E8%B5%B7%E6%9D%A5%E7%9A%84/MEADME.md)和[PDF]()
