@@ -6,6 +6,8 @@
 
 [思维导图 下载](https://github.com/uonlraSnaey/CS_diy_in_university/blob/main/CS/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E7%9B%B8%E5%85%B3%E8%B5%84%E6%96%99/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.xmind)
 
+![Image text](https://github.com/uonlraSnaey/CS_diy_in_university/blob/main/Others/images/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.png)
+
 持续补全中
 
 ## 二、学习路线：
