@@ -34,7 +34,7 @@ int main(void)
 	p = &arr[0];
 
 	for(i = 0; i < 7; i++)
-	{
+	{ 
 		printf("%d\t", *p);
 		p++;
 	}
